@@ -145,7 +145,6 @@ body {
   font-weight: 700;
   color: var(--foreground);
   text-shadow: 0 0 20px var(--primary);
-  animation: glow 3s ease-in-out infinite;
 }
 
 /* Added clock display styles */
